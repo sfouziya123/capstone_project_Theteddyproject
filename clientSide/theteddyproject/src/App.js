@@ -1,11 +1,11 @@
 
 import './App.css';
+import Route from './Components/Routes/Routes';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hai I am FOuziya</h1>
-      <h2>Hello</h2>
+      <Route/>
     </div>
   );
 }
