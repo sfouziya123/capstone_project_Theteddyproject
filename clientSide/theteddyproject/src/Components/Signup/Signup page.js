@@ -2,7 +2,7 @@ import React from 'react'
 import './Signup.css'
 
 
-function signup(){
+function Signup(){
     return(
         <div>
             <div className="main">
@@ -22,13 +22,13 @@ function signup(){
                             
                      </div>
                 </div>
-                {/* <h5>____Or Connect with____</h5> */}
+                
                 <div id="bottom">
                 <h5>____Or Connect with____</h5>
-                    <img className="google" src="resources/googleicon.webp" alt=""/>
-                    <img className="twitter" src="resources/twitter.png"alt=""/>
-                    <img className="linkdin" src="resources/linkdin.png"alt=""/>
-                    <img className="facebook" src="resources/facebook.png"alt=""/>
+                    {/* <img className="google" src="resources/googleicon.webp" alt=""/>
+                    <img className="google" src="resources/twitter.png"alt=""/>
+                    <img className="google" src="resources/linkdin.png"alt=""/>
+                    <img className="google" src="resources/facebook.png"alt=""/> */}
                 </div>
                 
             </div>
@@ -36,4 +36,4 @@ function signup(){
         </div>
     )
 }
-export default signup;
+export default Signup;

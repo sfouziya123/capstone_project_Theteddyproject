@@ -29,37 +29,20 @@
 {
     display: flex;
 }
-.Offers{
-    margin-left: 50px;
-    margin-top: 20px;
-    color: white;  
-}
+
 .signin{
     margin-left: 5px;
     margin-top: 20px;
     color: white;   
 }
-.wishList{
-    height: 20px;
-    width: 20px;
-    margin-left: 20px;
 
-}
-.Wish{
-    margin-top: 20px;
-    color: white;
-}
-.WishList{
+ .WishList{
     height: 20px;
     width: 20px;
     margin-top: 20px;
     margin-left: 40px;
-}
-.WISH{
-    margin-top: 20px;
-    color: white;
-    margin-left: 10px;
-}
+} 
+
 #logo{
     height: 60px;
     width: 60px;
@@ -81,14 +64,14 @@
     color: white;
 }
 
-.wishList{
+.wishList{ 
     height: 40px;
     width: 40px;
     margin-left: 40px;
     margin-top: 10px;
     border-radius: 6px;
     
-}
+} 
 .Whish{
     margin-left: 5px;
     margin-top: 20px;

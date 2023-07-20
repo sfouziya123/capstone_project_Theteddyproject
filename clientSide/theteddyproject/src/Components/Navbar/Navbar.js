@@ -14,13 +14,13 @@ function Navbar(){
                 <div className='Flex'>
                     <div className="home">Toys</div>
                     <div className="toys">Age of kids</div>
-                    <div className="Offers">Offers</div>
+                    <div className="toys">Offers</div>
                     <img className="login" src = "Resources/signin1.png" alt=""/>
                     <div className="signin">Signin</div> 
                     <img className="wishList" src = "Resources/whish.png" alt=""/>
-                    <div className="Wish">Whishlist</div>
+                    <div className="signin">Whishlist</div>
                     <img className="WishList" src = "Resources/cart2.png" alt=""/>
-                    <div className="WISH">Add to cart</div>
+                    <div className="signin">Add to cart</div>
                     <div className='searchimg'>
                         <img className="search"  src="Resources/search-icon.png" alt=""/>
                     </div>
