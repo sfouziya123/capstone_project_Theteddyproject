@@ -8,7 +8,7 @@ function Signup(){
             <div className="main">
                 <div className="mainTag">
                     <div className="leftTag">
-                    <img  className = "size"src="resources/sign3.jpg"alt=""/>
+                    <img  className = "size"src="Resources/babyteddy.png"alt=""/>
                     </div>
                     <div className="rightTag">
                             <h2>SignUp</h2>
@@ -25,10 +25,12 @@ function Signup(){
                 
                 <div id="bottom">
                 <h5>____Or Connect with____</h5>
-                    {/* <img className="google" src="resources/googleicon.webp" alt=""/>
-                    <img className="google" src="resources/twitter.png"alt=""/>
-                    <img className="google" src="resources/linkdin.png"alt=""/>
-                    <img className="google" src="resources/facebook.png"alt=""/> */}
+                <div className="fouz">
+                 <img className="google" src="Resources/googleicon.webp" alt=""/>
+                    <img className="google" src="Resources/twitter.png"alt=""/>
+                    <img className="google" src="Resources/linkdin.png"alt=""/>
+                    <img className="google" src="Resources/facebook.png"alt=""/> 
+                    </div>
                 </div>
                 
             </div>
