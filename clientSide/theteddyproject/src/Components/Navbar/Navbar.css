@@ -1,0 +1,99 @@
+.navbar
+{ 
+    height: 60px;
+    width: 100%;
+    display: flex;
+    background-color:#D36B00;
+}
+.color
+{
+    height: 200px;
+    width: 200px;
+    margin: 20px; 
+    border-radius: 10%;  
+}
+.toys
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: white;
+}
+.login
+{
+    height:21px;
+    width:21px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.Flex
+{
+    display: flex;
+}
+
+.signin{
+    margin-left: 5px;
+    margin-top: 20px;
+    color: white;   
+}
+
+ .WishList{
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+} 
+
+#logo{
+    height: 60px;
+    width: 60px;
+    border-radius: 90px;
+    margin-left: 60px;
+}
+#Input{
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 20px;
+    width: 180px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.home{
+    margin-left: 320px;
+    margin-top: 20px;
+    color: white;
+}
+
+.wishList{ 
+    height: 40px;
+    width: 40px;
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 6px;
+    
+} 
+.Whish{
+    margin-left: 5px;
+    margin-top: 20px;
+    color: white;
+}
+.search{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    
+}
+.searchimg
+{
+    left: 1180px;
+    position: absolute;
+    width:30px;
+    height:30px;
+    margin-top: 17px;
+    background-color: white;
+    border-right: none;
+   
+    
+}
+

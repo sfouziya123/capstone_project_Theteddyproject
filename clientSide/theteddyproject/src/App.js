@@ -1,12 +1,12 @@
-
 import './App.css';
+import Routess from './Components/Routers/Routers';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hai I am FOuziya</h1>
-      
+      <Routess/>
     </div>
+
   );
 }
 
